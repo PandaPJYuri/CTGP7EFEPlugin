@@ -71,7 +71,7 @@
   <Entry szsName="Ctgp_N64RainbowR" humanName="N64 Rainbow Road" courseID="46" courseType="CustomRace" />
   <Entry szsName="Gagb_RainbowRoad" humanName="GBA Rainbow Road" courseID="47" courseType="CustomRace" />
   <Entry szsName="Ctgp_GCBowserCastle" humanName="GCN Bowser Castle" courseID="48" courseType="CustomRace" />
-  <Entry szsName="Ctgp_MikuBirtSpe" humanName="Miku's Birthday Spectacular" courseID="49" courseType="CustomRace" />
+  <Entry szsName="Ctgp_MikuBirtSpe2" humanName="Miku's Birthday Spectacular 2" courseID="49" courseType="CustomRace" />
   <Entry szsName="Ctgp_SandCastle" humanName="Sandcastle Park" courseID="4A" courseType="CustomRace" />
   <Entry szsName="Ctgp_MarioCircuit" humanName="DS Mario Circuit" courseID="4B" courseType="CustomRace" />
   <Entry szsName="Gcn_LuigiCircuit" humanName="GCN Luigi Circuit" courseID="4C" courseType="CustomRace" />
@@ -82,7 +82,7 @@
   <Entry szsName="Ctgp_GBALuigiCirc" humanName="GBA Luigi Circuit" courseID="51" courseType="CustomRace" />
   <Entry szsName="Ctgp_SMORCChallen" humanName="SMO RC Challenge" courseID="52" courseType="CustomRace" />
   <Entry szsName="Gagb_BowserCastle4" humanName="GBA Bowser Castle 4" courseID="53" courseType="CustomRace" />
-  <Entry szsName="Gsfc_DonutPlainsThree" humanName="SNES Donut Plains 1" courseID="54" courseType="CustomRace" />
+  <Entry szsName="Ctgp_RMXDP1" humanName="RMX Donut Plains 1" courseID="54" courseType="CustomRace" />
   <Entry szsName="Gn64_SecretSl" humanName="Secret Slide" courseID="55" courseType="CustomRace" />
   <Entry szsName="Gds_WarioStad" humanName="DS Wario Stadium" courseID="56" courseType="CustomRace" />
   <Entry szsName="Ctgp_ErmiiCir" humanName="Ermii Circuit" courseID="57" courseType="CustomRace" />
@@ -120,4 +120,12 @@
   <Entry szsName="Ctgp_CliffCircuit" humanName="Cliffside Circuit" courseID="77" courseType="CustomRace" />
   <Entry szsName="Ctgp_InterstellarLabb" humanName="Interstellar Laboratory" courseID="78" courseType="CustomRace" />
   <Entry szsName="Ctgp_DarkMatterFortress" humanName="Dark Matter Fortress" courseID="79" courseType="CustomRace" />
+  <Entry szsName="Ctgp_SNESDonutPlains2" humanName="SNES Donut Plains 2" courseID="7A" courseType="CustomRace" />
+  <Entry szsName="Ctgp_SoaringSkyway" humanName="Soaring Skyway" courseID="7B" courseType="CustomRace" />
+  <Entry szsName="Ctgp_N64BowserCastle" humanName="N64 Bowser's Castle" courseID="7C" courseType="CustomRace" />
+  <Entry szsName="Ctgp_WiiDKSummit" humanName="Wii DK Summit" courseID="7D" courseType="CustomRace" />
+  <Entry szsName="Ctgp_PaintSwpRC" humanName="Painted Swamp Raceway" courseID="7E" courseType="CustomRace" />
+  <Entry szsName="Ctgp_RouletteRoad" humanName="Roulette Road" courseID="7F" courseType="CustomRace" />
+  <Entry szsName="Ctgp_OrbitalOutpost" humanName="Orbital Outpost" courseID="80" courseType="CustomRace" />
+  <Entry szsName="Ctgp_DsRainbowRoad" humanName="DS Rainbow Road" courseID="81" courseType="CustomRace" />
 </NameInfo>
